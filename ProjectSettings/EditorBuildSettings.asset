@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 9a023dc9232218e42be4590914b6afb3
+  - enabled: 1
+    path: Assets/Scenes/Error_SceneNotFound.unity
+    guid: 4ed5bc0b688b3c246a0e1bfe20ebd06a
+  - enabled: 1
+    path: Assets/Scenes/Menu_MainMenu.unity
+    guid: 248f20e5e36307a479a5e7a939163c74
+  - enabled: 1
+    path: Assets/Scenes/Menu_Options.unity
+    guid: 3a77bb5e0a96f2b4f8f4487284a29da9
+  - enabled: 1
+    path: Assets/Scenes/Menu_Challenges.unity
+    guid: 112cb35690553fe4ea3ea73a0a97a338
+  - enabled: 1
+    path: Assets/Scenes/Menu_Training_1.unity
+    guid: d1d5843c98addde4193c3bd24d53f258
+  - enabled: 1
+    path: Assets/Scenes/Menu_Training_2.unity
+    guid: 130add41a71444c468dfb5595b319a9e
+  - enabled: 1
+    path: Assets/Scenes/Menu_AIs.unity
+    guid: cb7cbe6fde1c0da499f84164e3fe2b64
+  - enabled: 1
+    path: Assets/Scenes/Training_PlayerMatch.unity
+    guid: 23361972d09f89d4f84dc5e7eec8ae42
+  - enabled: 1
+    path: Assets/Scenes/Menu_Castes.unity
+    guid: 99a9133e9949b47449fa8a0f2488daf8
+  - enabled: 1
+    path: Assets/Scenes/Menu_Ladder.unity
+    guid: 4ac38adfade974649b49f4d98d8dfca5
+  - enabled: 1
+    path: Assets/Scenes/Menu_Battles.unity
+    guid: ccabec1b44fd7db49b0a7845455a0b74
+  - enabled: 1
+    path: Assets/Scenes/Menu_Replays.unity
+    guid: 91ea2a4f90e267946b9507e3cfcdbadf
+  - enabled: 1
+    path: Assets/Scenes/Replays_PlayerMatch.unity
+    guid: c2df5bad2b419864fb289fd97f6f513c
+  - enabled: 1
+    path: Assets/Scenes/Menu_Components.unity
+    guid: 1a1eb87beeca81143a6247a1c907ec9d
+  - enabled: 1
+    path: Assets/Scenes/AIs_AIBuilder.unity
+    guid: 2a35dfaeb0b7a5a48b01adccfe13173b
+  - enabled: 1
+    path: Assets/Scenes/AIs_PlayerMatch.unity
+    guid: 7cd3140b8e94050458442bf196bcc59c
+  - enabled: 1
+    path: Assets/Scenes/Menu_Login.unity
+    guid: c503411cd5cddcd4c80b018cd865aaac
+  - enabled: 1
+    path: Assets/Scenes/Menu_CastesEditor.unity
+    guid: 335af582d8064cb4e8bf9a8356b790c9
